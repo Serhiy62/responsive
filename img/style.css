@@ -1,0 +1,91 @@
+header {
+    background-color: #DCDCDC;
+    height: 250px;
+    width: 70%;
+    margin-left: 180px;
+    margin-top: 70px;
+}
+.image img{
+    float: left;
+    width: 40%;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+#header_text, h3, p {
+    float: left;
+    padding-top: 2px;
+    margin-left: 10px;
+}
+.header_text p {
+    margin-top: -10px;
+}
+#header_text, a {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 8px 9px;
+    cursor: pointer;
+}
+a {
+    margin-top: -6px;
+}
+#header_text, a:hover {
+    background-color: #6495ED;
+}
+nav  {
+    margin-left: 170px;
+}
+.navtext p {
+    margin-top: -10px;
+}
+/*стилі для картинок*/
+ .foto img {
+   float: left;
+   height: 50px;
+   width: 50px;
+}
+ #html img  {
+   margin-left: 210px;
+}
+#css img {
+    margin-left: 150px;
+}
+#js img {
+    margin-left: 150px;
+}
+ #bot img{
+    margin-left: 150px;
+}
+.foto p {
+    color: black;
+}
+/*стилі для тексту*/
+.text_javascript {
+    float: left;
+    margin-left: 165px;
+}
+.text_javascript p {
+    margin-top: -10px;
+}
+.text_bootstrap {
+    float: left;
+    margin-left: 165px;
+}
+.text_bootstrap p {
+    margin-top: -10px;
+    margin-bottom: 70px;
+}
+p {
+  color:  #A9A9A9; 
+}
+
+   
+
